@@ -1,0 +1,3 @@
+/home/achu/Desktop/projects/wistle/backend/build/CMakeFiles/WistleDetector.dir
+/home/achu/Desktop/projects/wistle/backend/build/CMakeFiles/edit_cache.dir
+/home/achu/Desktop/projects/wistle/backend/build/CMakeFiles/rebuild_cache.dir
